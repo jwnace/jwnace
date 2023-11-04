@@ -1,6 +1,8 @@
-### Hi there 👋
+<img src="https://github.com/jwnace/jwnace/assets/3495660/1a739751-33b8-4e11-b227-e843da89a6f6">
 
 <!--
+### Hi there 👋
+
 **jwnace/jwnace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
