@@ -1,5 +1,9 @@
 <img src="https://github.com/jwnace/jwnace/assets/3495660/1a739751-33b8-4e11-b227-e843da89a6f6">
 
+![jwnace's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwnace&show_icons=true&theme=tokyonight)
+
+![jwnace's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jwnace&theme=tokyonight&layout=compact)
+
 <!--
 ### Hi there 👋
 
